@@ -1,7 +1,19 @@
 <resources>
+
     <string name="app_name">Famers App</string>
 
     <string name="Register">New User? Register</string>
     <string name="Login">Old User? Login</string>
+
+    <string name="Name">Name</string>
+    <string name="Email_ID">Email-ID</string>
+    <string name="Password">Password</string>
+    <string name="PasswordAgain">Enter Password Again</string>
+    <string name="RegisterMe">Register</string>
+
+    <string name="LogMeIn">Login</string>
+    <string name="ForgotPassword"><u>Forgot password? Click here</u></string>
+
+    <string name="ShowAlert">Please fill all the details correctly</string>
 
 </resources>
