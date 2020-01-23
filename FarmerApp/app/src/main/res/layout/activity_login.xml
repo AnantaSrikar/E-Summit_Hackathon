@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,6 +9,16 @@
     android:padding="8dp">
 
 
+=======
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".LoginActivity"
+    android:padding="8dp">
+
+>>>>>>> 57f41c91e4e423952ed4ce48cb8d07c580538af3
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout"
         android:layout_width="match_parent"
@@ -62,4 +73,10 @@
         android:layout_below="@+id/LAlogin"
         android:layout_marginTop="80dp"
         />
+<<<<<<< HEAD
 </RelativeLayout>
+=======
+
+</RelativeLayout>
+
+>>>>>>> 57f41c91e4e423952ed4ce48cb8d07c580538af3
