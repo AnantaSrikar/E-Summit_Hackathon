@@ -4,4 +4,9 @@
     <string name="Register">New User? Register</string>
     <string name="Login">Old User? Login</string>
 
+    <string name="Email_ID">Email-ID</string>
+    <string name="Password">Password</string>
+    <string name="LogMeIn">Login</string>
+    <string name="ForgotPassword"><u>Forgot password? Click here</u></string>
+
 </resources>
