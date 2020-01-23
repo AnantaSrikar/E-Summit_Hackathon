@@ -9,4 +9,9 @@
     <string name="LogMeIn">Login</string>
     <string name="ForgotPassword"><u>Forgot password? Click here</u></string>
 
+    <string name="ShowAlert">Please fill all the details correctly</string>
+    <string name="Name">Name</string>
+    <string name="PasswordAgain">Enter Password Again</string>
+    <string name="RegisterMe">Register</string>
+
 </resources>
