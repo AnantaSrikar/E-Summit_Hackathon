@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Famers App</string>
+
+    <string name="Register">New User? Register</string>
+    <string name="Login">Old User? Login</string>
+
+</resources>
